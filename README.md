@@ -5,6 +5,5 @@ Mit FutureRadar behälst du den Überblick über deine anstehenden Events - dire
 ## TestFlight
 [TestFlight-Link](https://testflight.apple.com/join/r3cs6Y5d)
 
-![Group 2-3](https://github.com/user-attachments/assets/075dcf25-059d-4163-9f4b-1effadc288c5)
-![Group 1-2](https://github.com/user-attachments/assets/3220c39b-318d-4191-8358-93a05562aa4c)
-
+![FutureRadar1](https://github.com/user-attachments/assets/54253076-9552-4c83-9439-e595711495e3)
+![FutureRadar2](https://github.com/user-attachments/assets/2922bd86-0259-4350-8ca7-d869f5dc8014)
