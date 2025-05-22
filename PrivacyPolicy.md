@@ -1,9 +1,9 @@
-# Privacy Policy for FutureRadar
+# Privacy Policy for WaitingFor Menu
 **Effective Date:** May 21, 2025
 
 ## 1. Introduction
 
-FutureRadar is a macOS application designed to facilitate the tracking of upcoming events within the Mac Menu Bar. This privacy policy outlines how your data is handled when using the FutureRadar application.
+WaitingFor Menu is a macOS application designed to facilitate the tracking of upcoming events within the Mac Menu Bar. This privacy policy outlines how your data is handled when using the WaitingFor Menu application.
 
 ## 2. Controller of the Data
 
@@ -15,7 +15,7 @@ Under the EU General Data Protection Regulation (GDPR), you have the right to kn
 
 ## 3. Data Collection and Use
 
-FutureRadar does **not collect, store, or transmit any personal data**.  
+WaitingFor Menu does **not collect, store, or transmit any personal data**.  
 Specifically:
 
 - The app does not collect personal identifiers, usage analytics, or tracking information.
@@ -39,7 +39,7 @@ Locally stored data is retained **as long as the application remains installed**
 
 ## 5. Data Sharing and Transfers
 
-- FutureRadar does **not share, transmit, or sell** any data to third parties.
+- WaitingFor Menu does **not share, transmit, or sell** any data to third parties.
 - No data is transferred outside your device or to any servers.
 
 ## 6. Third-Party Services
@@ -55,11 +55,11 @@ If you are located in the European Union, you are entitled to the following righ
 - The right to restrict or object to processing
 - The right to lodge a complaint with a supervisory authority
 
-**Note:** Since FutureRadar does not collect any personal data, exercising these rights may not be necessary or applicable.
+**Note:** Since WaitingFor Menu does not collect any personal data, exercising these rights may not be necessary or applicable.
 
 ## 8. Children’s Privacy
 
-FutureRadar is not directed at children under the age of 13 and does not knowingly collect data from children.
+WaitingFor Menu is not directed at children under the age of 13 and does not knowingly collect data from children.
 
 ## 9. Updates to This Policy
 
