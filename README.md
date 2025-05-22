@@ -1,6 +1,6 @@
-# FutureRadar
+# WaitingFor Menu
 
-Mit FutureRadar behälst du den Überblick über deine anstehenden Events - direkt in der MenuBar. Erfahre, wie viel Zeit noch bis zum nächsten Event verstreichen muss und verfolge, wie lange du schon auf das Event wartest.
+With WaitingFor Menu, you can keep track of your upcoming events – right in the menu bar. Find out how much time is left until the next event and track how long you've been waiting for it.
 
 ## TestFlight
 [TestFlight-Link](https://testflight.apple.com/join/r3cs6Y5d)
