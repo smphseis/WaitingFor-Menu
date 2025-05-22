@@ -10,7 +10,7 @@ WaitingFor Menu is a macOS application designed to facilitate the tracking of up
 **Data Controller:**  
 Phil Seißelberg
  **Contact Email:** ps.developer@icloud.com
-WaitingFor Menu
+
 Under the EU General Data Protection Regulation (GDPR), you have the right to know who is responsible for managing your data. As the developer of WaitingFor Menu, I act as the data controller.
 
 ## 3. Data Collection and Use
