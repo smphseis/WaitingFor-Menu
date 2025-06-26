@@ -7,7 +7,7 @@ Key Features:
 - Get a quick overview of your upcoming events.
 - Determine the remaining time until each event and your current wait duration.
 
-## TestFlight
+## Download
 [AppStore](https://apps.apple.com/us/app/waitingfor-menu/id6746344499)
 
 ![WaitingForMenu1](https://github.com/user-attachments/assets/fc1affc1-851f-4807-be20-ea215d94a976)
